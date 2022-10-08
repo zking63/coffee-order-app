@@ -1,22 +1,20 @@
-# Digital Analytics
-This is a React.js app that allows you to add and remove meals from your cart and place an order.  
+# Coffee Shop 
+This is a React.js app that allows you to add and remove orders from your cart and place an order.  
 
 ## Author
 #### Zoe King | Software Developer | Digital Strategist | [GitHub](https://github.com/zking63) | <zoemking63@gmail.com> | [LinkedIn](https://www.linkedin.com/in/zoe-king-9a730b12b/)
 
 ## Features
-* Secure login and registration with validation and email verification  
-* Imports and reads Excel documents with performance and fundraising data to create Java objects (fundraising emails) and stores them in MySQL database  
-* Custom search function to query fundraising emails based on user-generated data, providing the ability to group emails by topic, analyze performance, and optimize fundraising strategy [(see demo below)](#Search)  
-* Responsive U.I. built with JavaScript, CSS, and HTML5  
-* Builds reports using search functionality and allows users to export them to Excel and Word [(see demo below)](#Export)  
+* Cross-device, responsive U.I. with customized scroll and button animations [(see demo below)](#U.I)
+* Add and remove items from cart and instantaneously update number of items and total cost with React useReducer Hook 
+* Checkout cart function with HTML form that validates user and order data and sends error messages
+* Fetches menu data from custom Firebase API and renders menu on load
+* Submits order and user data to a backend server using an HTTP request
 
 ## Technologies
-**FRONT END:** HTML | CSS | React.js | Bootstrap | JSP  
-**BACK END:** Java | MySQL | JPA | Hibernate  
-**KEY APIs:** JPA Criteria API | Apache POI API | Java Mail API | Java Persistence API  
-**TOOLS:** Spring Tool Suite | MySQL Workbench  
+**FRONT END:** HTML | CSS | React.js
+**TOOLS:** Visual Studio Code | Google Firebase 
 
 ## Demos
-### Search
-![Search](/src/assets/preview.gif)
+### U.I
+![U.I](/src/assets/coffeeshop.gif)
