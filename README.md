@@ -16,4 +16,6 @@ This is a React.js app that allows you to add and remove orders from your cart a
 **TOOLS:** Visual Studio Code | Google Firebase 
 
 ## Demos
+### Search
+![Search](/src/assets/coffeeshop.gif)
 ![Search](/src/assets/coffeeshop.gif)
