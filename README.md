@@ -12,11 +12,11 @@ This is a React.js app that allows you to add and remove meals from your cart an
 * Builds reports using search functionality and allows users to export them to Excel and Word [(see demo below)](#Export)  
 
 ## Technologies
-**FRONT END:** HTML5 | CSS | JavaScript | Bootstrap | JSP  
+**FRONT END:** HTML | CSS | React.js | Bootstrap | JSP  
 **BACK END:** Java | MySQL | JPA | Hibernate  
 **KEY APIs:** JPA Criteria API | Apache POI API | Java Mail API | Java Persistence API  
 **TOOLS:** Spring Tool Suite | MySQL Workbench  
 
 ## Demos
 ### Search
-![Search](/foodorderapp.gif)
+![Search](/src/assets/preview.gif)
