@@ -12,7 +12,7 @@ This is a React.js app that allows you to add and remove orders from your cart a
 * Submits order and user data to a backend server using an HTTP request
 
 ## Technologies
-**FRONT END:** HTML | CSS | React.js
+**FRONT END:** HTML | CSS | React.js  
 **TOOLS:** Visual Studio Code | Google Firebase 
 
 ## Demos
